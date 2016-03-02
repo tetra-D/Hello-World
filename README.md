@@ -1,6 +1,2 @@
 # Hello-World
-int main(){
-  char csHw[]="Hello World";
-  cout<<csHw;
-  return 0;
-}
+Tribute to the basics.
